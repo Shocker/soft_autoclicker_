@@ -1,7 +1,7 @@
-AutoClicker by Shocker
+## AutoClicker by Shocker
 This project is currently closed source, only executable download is available. You can do that [here](https://github.com/Shocker/soft_autoclicker_/releases)
 
-**History:**
+## History
 
 v2.4:
 - Increased the autostop intervals limit to 9999 (up from 100)
