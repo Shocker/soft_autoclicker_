@@ -1,6 +1,9 @@
 ## AutoClicker by Shocker
 This project is currently closed source, only executable download is available. You can do that [here](https://github.com/Shocker/soft_autoclicker_/releases)
 
+## Screenshots
+<img src="https://raw.githubusercontent.com/Shocker/soft_autoclicker_/master/screenshots/main.png" width="200" />
+
 ## History
 
 v2.4:
